@@ -4,4 +4,4 @@
 
 **[Obj C]** 
 
-A collection of snippets relate with apple development.
+A collection of snippets relate with apple development. 
